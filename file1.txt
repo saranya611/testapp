@@ -1,0 +1,3 @@
+hii....
+Im file1
+this is an example for writing a file. The file is appended successfully..!
